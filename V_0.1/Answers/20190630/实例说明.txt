@@ -1,0 +1,5 @@
+A£ºAC
+B£ºWA
+C£ºTLE
+D£ºMLE
+E£ºRE
