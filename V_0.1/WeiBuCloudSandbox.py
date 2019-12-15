@@ -5,7 +5,7 @@ import requests
 global key
 
 # API密钥，需申请
-key = 'd88e081637cd467d95ced1d336947fccc3e76d80999a47baa76003b03c1e0ad7'
+key = ''
 
 
 # 提交文件
